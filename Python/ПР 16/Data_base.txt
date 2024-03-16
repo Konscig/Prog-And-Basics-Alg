@@ -1,0 +1,15 @@
+stockholm;872;Boeing707
+astana;998;A320
+berlin;150;Boeing770
+moscow;476;SukhoiSuperJet
+Tyumen;248;A320
+stockholm;957;Boeing707
+london;520;Boeing770
+budapesht;855;Boeing770
+Vladivostok;590;Boeing770
+london;855;SukhoiSuperJet
+krasnoyrarsk;549;A320
+moscow;840;Boeing707
+london;497;SukhoiSuperJet
+atlanta;326;Boeing770
+stockholm;535;Boeing770astana;380;Boeing770

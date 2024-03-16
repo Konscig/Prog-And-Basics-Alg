@@ -1,0 +1,3 @@
+/Users/cuperuser/kostyA/Uni/ПиОА/C++/4_Lab/cmake-build-debug/CMakeFiles/4_Lab.dir
+/Users/cuperuser/kostyA/Uni/ПиОА/C++/4_Lab/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/cuperuser/kostyA/Uni/ПиОА/C++/4_Lab/cmake-build-debug/CMakeFiles/rebuild_cache.dir
